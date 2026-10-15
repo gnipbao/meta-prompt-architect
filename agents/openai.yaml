@@ -1,0 +1,4 @@
+interface:
+  display_name: "元提示词架构师"
+  short_description: "把模糊需求与旧提示词重构为可验证、可直接运行且低幻觉的高质量提示词"
+  default_prompt: "Use $meta-prompt-architect to turn my requirement or existing prompt into a precise, verifiable prompt I can run directly."
